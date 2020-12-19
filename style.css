@@ -3,7 +3,7 @@ p {
 }
 
 .introduction {
-    border: 5px solid blue;
+    border: 5px dashed rgb(224, 86, 109);
     color: brown;
 }
 
@@ -14,6 +14,8 @@ p {
     text-align: center;
 
 .ending {
-    background-color: lightgray;
+    background-color: lightsalmon;
     padding-top: 50px;
+    text-align: right;
 }
+
